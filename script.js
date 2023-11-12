@@ -12,7 +12,6 @@ $(document).ready(function() {
         // Atur ukuran lebih besar, efek blur, dan zoom pada sertifikat yang dipilih
         $(this).css({
             "width": "120%",
-            "filter": "blur(3px)",
             "transform": "scale(1.2)" // Atur faktor zoom sesuai keinginan
         });
 
