@@ -65,7 +65,7 @@ h2 {
 img {
     width: 100%; /* Agar gambar mengisi lebar container */
     max-width: 400px; /* Atur lebar maksimum gambar */
-    margin: 10px;
+    margin: 0;
 }
 
 /* Gaya tambahan sesuai kebutuhan Anda */
